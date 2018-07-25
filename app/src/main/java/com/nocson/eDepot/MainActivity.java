@@ -75,7 +75,7 @@ public class MainActivity extends AppCompatActivity {
     private ValueCallback<Uri[]> filePathCallbackLollipop;
     private Uri mCapturedImageURI;
     private WebViewInterface mWebViewInterface;
-asdfas
+
     private ShareActionProvider mShareActionProvider;
 
     private BottomNavigationView.OnNavigationItemSelectedListener mOnNavigationItemSelectedListener
